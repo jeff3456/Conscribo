@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 1. This is Jefferson Lee. I created a network for creative writers of different backgrounds to collaborate and write stories together.\
+2. SELF EVALUATION\
+  PERMISSIONS:\
+    The permissions my app, Conscribo, uses are INTERNET, ACCESS_NETWORK_STATE, GET_ACCOUNTS, and USE_CREDENTIALS. \
+    INTERNET is needed because my app connects to a server for data.\
+    ACCESS_NETWORK_STATE is needed because I need information about the user's network in order to generate and maintain data.\
+    GET_ACCOUNTS is needed because I implemented a Google+ sign-in feature that will automatically login users.\
+    USE_CREDENTIALS is needed because I need authtokens in order to sign users up via Google accounts.\
+  CONTENT PROVIDER:\
+    The Content Provider is named com.codeu.app.conscribo.provider.StoryProvider.java . It is backed by SQLite with one table called story_object.\
+    The backend service I implemented was Parse.\
+    I use a ParseQueryAdapter to generate list items in the Main Dashboard once queries are generated from a factory style query.\
+    I also use a Loader to ensure queries to the Content Provider are asynchronous.\
+  USER/APP STATE:\
+    A list item remains selected on rotation. EditText inputs are also saved on rotation\
+    App resumes activity as it wakes up from a locked state.\
+    When the app is reopened from home, it preserves the stories that were displayed previously to ensure consistent content viewing.\
+  SHARE ACTION PROVIDER:\
+    I implemented a ShareActionProvider in ReadWriteStoryActivity/ fragment in order to share the story text with other people.\
+}

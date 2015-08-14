@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-c72a207e5ae6e8a783347d2cca02bc9fd9f3cc8c.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-f4e3f30c096376cf478aa7fd5f38f0a148145b96.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-b30b81c1f183b097cbed26ebaf6e26170dd10e6a.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-403a1f2fc7a00c1396269bf49932563c97eded85.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-229602252268afb73472deca4c5bae4276de57ab.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-73119485ef50ae72129ca9955a579145d9436dae.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-bcd189ddffa15cac99599e311f3c9a480ec41203.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-b7300190159259b0734497e477531f7ed61c07b2.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-25265758b82ff413f70c833ca77a9a6aaa6c0998.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-17e645c7c2c3ad490128450d7bebf8c293055b06.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-18340056f76fb8c0a1068bb0deb21a0f3cde1081.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-9b87f51e3508e63a04298165029d39d4f98f81f4.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-84b5859f88140113f93ac815ff8d7d678a5793ef.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f77240a08e8b1da1d43d69e630e152a085282ccc.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-f721d094fc4096bb0fd85301cc28764dd9428dc9.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-f44954533cfa04413f5dc77dc69debdb98d904d3.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-35575289b838a80a1417c9f33a23f9a8c1a28ef3.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-65da85dd1050d9936654f7eed74a6994b829e2d8.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-b6edb8dba9411fc4d9178e92a6d986f4883d2104.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-97f4adda8d67d94a1e765a81b260c5e5a5d548a7.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-76d3ec0c847ec0d9632fa31f4eb47b09bc737237.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-64dbf95db48a8834702f76dec9c83ec1f2346b3d.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-a5a6a8cd764b9f51995f7f7df2ca59defe340d3f.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-117689381bcedfda5c13ada85e496052acdd4fd5.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-ed279b680db8aa8db378991b6e20b0161c8033e7.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-090128107beb6c705a9ed688b96342d7ba4d2537.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-f11c20f072429e9eec38b123840c1a71d563ebc2.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/jeff/ConscriboApp/Conscribo/app/build/intermediates/pre-dexed/debug/classes-ad2386c021645ef6796785da805102ebfb0eacda.jar" />
+    </item>
+
+</items>

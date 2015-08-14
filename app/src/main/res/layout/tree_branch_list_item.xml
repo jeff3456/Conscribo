@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/relative_layout_branch"
+    android:layout_alignTop="@+id/sentence_branch_text"
+    android:layout_alignBottom="@+id/branch_author_text"
+    android:background="@drawable/touch_selector">
+
+    <!-- Have a bunch of invisible ImageViews with fixed size  -->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_0"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_0"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_1"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_1"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_2"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_2"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_3"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_3"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_4"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_4"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_5"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_5"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_6"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_6"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_7"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_7"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_8"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_alignTop="@+id/sentence_branch_text"
+        android:layout_alignBottom="@+id/branch_author_text"
+        android:layout_toRightOf="@+id/branch_divider_8"
+        android:paddingRight="5dp"
+        android:src="@drawable/conscribo_branch_divider"
+        android:id="@+id/branch_divider_9"
+        android:visibility="invisible"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sentence_branch_text"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/branch_author_text"
+        android:layout_below="@id/sentence_branch_text"
+        android:layout_alignLeft="@id/sentence_branch_text"
+        android:textColor="@color/text_gray" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/branch_num_likes"
+        android:layout_below="@id/sentence_branch_text"
+        android:paddingLeft="10dp"
+        android:layout_toRightOf="@id/branch_author_text"
+        android:textColor="@color/text_gray" />
+
+
+</RelativeLayout>

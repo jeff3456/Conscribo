@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditTextPreference
+        android:title="@string/pref_mock1"
+        android:key="@string/pref_key_mock1"
+        android:defaultValue="test"
+        android:inputType="text"
+        android:singleLine="true" />
+
+    <EditTextPreference
+        android:title="@string/pref_mock2"
+        android:key="@string/pref_key_mock2"
+        android:defaultValue="test"
+        android:inputType="text"
+        android:singleLine="true" />
+
+
+</PreferenceScreen>

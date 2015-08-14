@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="conscribo_light_green">#81C784</color>
+    <color name="conscribo_green">#4CAF50</color>
+    <color name="conscribo_dark_green">#2E7D32</color>
+    <color name="conscribo_highlight">#C8E6C9</color>
+
+    <!-- Button state colors -->
+    <color name="button_default">#6bd579</color>
+    <color name="button_pressed">#2E7D32</color>
+    <color name="button_focused">#4CAF50</color>
+
+    <color name="text_gray">#a8a8a8</color>
+</resources>
